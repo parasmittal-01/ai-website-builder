@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-genai
+python-dotenv
+pydantic
+SQLAlchemy>=2.0,<3.0
+pg8000>=1.31,<2.0
+python-multipart
